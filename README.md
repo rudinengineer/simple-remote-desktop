@@ -23,6 +23,7 @@ Pastikan Python 3.x sudah terinstall, lalu install semua dependensi dengan:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 📷 Demo Video
 👉 [Google Drive](https://drive.google.com/file/d/1nbPk2qjKgKlpOp7XOzUua5mS97oounET/view?usp=drive_link)
