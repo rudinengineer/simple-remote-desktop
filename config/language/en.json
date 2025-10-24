@@ -1,0 +1,19 @@
+{
+    "f_d_f": "Failed to decode frame",
+    "c_c_d" : "CTRL + C detected",
+    "p_n_v": "Port not valid",
+    "addr": "Address",
+    "port": "Port",
+    "s_c_t": "Successfully connected to {address}:{port}",
+    "s_n_l": "Server not listen",
+    "g_b": "Good bye",
+    "s_r": "Screen Recording",
+    "scrnsht": "Screenshot",
+    "pctr": "Picture",
+    "vd": "Video",
+    "a_g": "Access Granted",
+    "w_t_r": "Waiting to response",
+    "t_p": "Take Picture",
+    "a_w": "Access Webcam",
+    "l_a": "Listen Address"
+}
